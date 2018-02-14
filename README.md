@@ -1,6 +1,6 @@
 # Fizzbuzz via TDD
 
-Worked on Fizzbuzz with @rewitt94 to introduce ourselves to TDD & pair programming
+Worked on Fizzbuzz with Ricky to introduce ourselves to TDD & pair programming.
 
 ## Getting started
 
@@ -12,4 +12,5 @@ When in the root directory of the program, run `irb` through the terminal and en
 
 ## Running tests
 
-`rspec` (install if it doesn't already exist)
+RSpec is required to run the tests. If it's not installed, use the command `gem install rspec` to install it.
+When in the root directory of the program, run `rspec` through the terminal.
