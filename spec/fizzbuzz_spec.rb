@@ -13,8 +13,8 @@ describe 'fizzbuzz' do
 end
 
 describe 'fizzbuzz' do
-  it "converts 5 to fizzbuzz" do
-    expect(fizzbuzz(5)).to eq 'fizzbuzz'
+  it "converts 15 to fizzbuzz" do
+    expect(fizzbuzz(15)).to eq 'fizzbuzz'
   end
 end
 
