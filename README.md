@@ -9,6 +9,7 @@ Worked on Fizzbuzz with Ricky to introduce ourselves to TDD & pair programming.
 ## Usage
 
 When in the root directory of the program, run `irb` through the terminal and enter `require ./lib/fizzbuzz`
+`fizzbuzz(n)`, where n is any integer.
 
 ## Running tests
 
