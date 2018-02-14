@@ -1,6 +1,6 @@
 # Fizzbuzz via TDD
 
-Worked on Fizzbuzz with @rewitt94 to introduce ourselves to TDD & pair programming
+Worked on Fizzbuzz with Ricky to introduce ourselves to TDD & pair programming
 
 ## Getting started
 
